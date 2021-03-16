@@ -113,11 +113,6 @@ func (d *Driver) DriverName() string {
 	return DriverName
 }
 
-// GetSSHHostname returns hostname for use with ssh
-func (d *Driver) GetSSHHostname() (string, error) {
-	return d.IPAddress, nil
-}
-
 // GetState returns the state that the host is in (running, stopped, etc)
 func (d *Driver) GetState() (state.State, error) {
 	if err := d.verifyRootPermissions(); err != nil {
