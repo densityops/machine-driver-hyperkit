@@ -1,6 +1,6 @@
 module github.com/densityops/machine-driver-hyperkit
 
-go 1.15
+go 1.17
 
 require (
 	github.com/densityops/machine v0.0.0-20210616065635-eff475d32b9a
