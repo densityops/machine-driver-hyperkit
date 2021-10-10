@@ -26,8 +26,8 @@ build: $(BUILD_DIR) vendor lint test
 	GOOS=darwin go build \
 			-installsuffix "static" \
 			-ldflags="-s -w" \
-			-o $(BUILD_DIR)/crc-driver-hyperkit
-	chmod +x $(BUILD_DIR)/crc-driver-hyperkit
+			-o $(BUILD_DIR)/machine-driver-hyperkit
+	chmod +x $(BUILD_DIR)/machine-driver-hyperkit
 
 .PHONY: golangci-lint
 golangci-lint:
