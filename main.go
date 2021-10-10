@@ -1,3 +1,4 @@
+//go:build darwin
 // +build darwin
 
 /*
@@ -19,8 +20,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/code-ready/machine-driver-hyperkit/pkg/hyperkit"
-	"github.com/code-ready/machine/libmachine/drivers/plugin"
+	"github.com/densityops/machine-driver-hyperkit/pkg/hyperkit"
+	"github.com/densityops/machine/libmachine/drivers/plugin"
 )
 
 func main() {

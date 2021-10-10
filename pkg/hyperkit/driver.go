@@ -1,3 +1,4 @@
+//go:build darwin
 // +build darwin
 
 /*
@@ -31,9 +32,9 @@ import (
 	"syscall"
 	"time"
 
-	hyperkitdriver "github.com/code-ready/machine/drivers/hyperkit"
-	"github.com/code-ready/machine/libmachine/drivers"
-	"github.com/code-ready/machine/libmachine/state"
+	hyperkitdriver "github.com/densityops/machine/drivers/hyperkit"
+	"github.com/densityops/machine/libmachine/drivers"
+	"github.com/densityops/machine/libmachine/state"
 	"github.com/mitchellh/go-ps"
 	hyperkit "github.com/moby/hyperkit/go"
 	"github.com/pkg/errors"
