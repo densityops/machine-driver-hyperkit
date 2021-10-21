@@ -22,6 +22,7 @@ type Driver struct {
 	HyperKitPath  string
 	QcowToolPath  string
 	VMNet         bool
+	BootromPath   string
 }
 
 func NewDriver(hostName, storePath string) *Driver {

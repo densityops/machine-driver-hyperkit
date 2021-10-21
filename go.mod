@@ -3,7 +3,7 @@ module github.com/densityops/machine-driver-hyperkit
 go 1.17
 
 require (
-	github.com/densityops/machine v0.0.0-20211010104833-bf47ccf96421
+	github.com/densityops/machine v0.0.0-20211013204016-dfdfe39172e6
 	github.com/mitchellh/go-ps v1.0.0
 	github.com/moby/hyperkit v0.0.0-20171204115932-858492e3d919
 	github.com/pkg/errors v0.9.1

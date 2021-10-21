@@ -1,4 +1,4 @@
-# github.com/densityops/machine v0.0.0-20211010104833-bf47ccf96421
+# github.com/densityops/machine v0.0.0-20211013204016-dfdfe39172e6
 ## explicit; go 1.17
 github.com/densityops/machine/drivers/hyperkit
 github.com/densityops/machine/libmachine/drivers

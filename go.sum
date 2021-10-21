@@ -1,8 +1,8 @@
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
-github.com/densityops/machine v0.0.0-20211010104833-bf47ccf96421 h1:8iXLCgV8gt+mYsdhAMNPcVkbJ7M4I41+8wudXz054K8=
-github.com/densityops/machine v0.0.0-20211010104833-bf47ccf96421/go.mod h1:OJKDsN6W34R6GwvVbqplpX7g30i6Ijw+curifEqR1+0=
+github.com/densityops/machine v0.0.0-20211013204016-dfdfe39172e6 h1:zme6FVq+BvNwbEMu53LbVmjr/Xr2EdSlZQYw9IDmYgc=
+github.com/densityops/machine v0.0.0-20211013204016-dfdfe39172e6/go.mod h1:OJKDsN6W34R6GwvVbqplpX7g30i6Ijw+curifEqR1+0=
 github.com/mitchellh/go-ps v1.0.0 h1:i6ampVEEF4wQFF+bkYfwYgY+F/uYJDktmvLPf7qIgjc=
 github.com/mitchellh/go-ps v1.0.0/go.mod h1:J4lOc8z8yJs6vUwklHw2XEIiT4z4C40KtWVN3nvg8Pg=
 github.com/moby/hyperkit v0.0.0-20171204115932-858492e3d919 h1:qkxWSt7szDSjHR7qBuGb1e1VHvISWl487mihQF44T2k=
